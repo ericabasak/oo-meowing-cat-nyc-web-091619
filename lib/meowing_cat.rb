@@ -8,8 +8,4 @@ class Cat
   
 end
 
-maru = Cat.new
-maru.catsName
-maru.catsName = "Maru"
-maru.catsName
 
